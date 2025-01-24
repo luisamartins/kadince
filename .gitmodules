@@ -1,0 +1,6 @@
+[submodule "task-service"]
+    path = task-service
+    url = https://github.com/luisamartins/kadince-be-task-service.git
+[submodule "web-portal"]
+    path = web-portal
+    url = https://github.com/luisamartins/kadince-fe-web-portal.git
