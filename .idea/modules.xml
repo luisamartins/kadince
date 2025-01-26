@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/kadince.iml" filepath="$PROJECT_DIR$/.idea/kadince.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/task-service.main.iml" filepath="$PROJECT_DIR$/.idea/modules/task-service.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/task-service.test.iml" filepath="$PROJECT_DIR$/.idea/modules/task-service.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/web-portal.iml" filepath="$PROJECT_DIR$/web-portal.iml" />
     </modules>
   </component>
